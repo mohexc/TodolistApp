@@ -6,7 +6,7 @@ Style : bootstrap
 
 workshop : https://www.youtube.com/watch?v=sBws8MSXN7A
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/mohexc/TodolistApp/blob/master/TodolistApp.PNG?raw=true)
 
 ## Available Scripts
 
