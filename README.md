@@ -1,4 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project : Todo list App
+
+ReactJs : FunctionHook-component, route, axios
+
+Style : bootstrap
+
+workshop : https://www.youtube.com/watch?v=sBws8MSXN7A
+
+![alt text](http://url/to/img.png)
 
 ## Available Scripts
 
